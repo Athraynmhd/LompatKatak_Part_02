@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Koin
+comment1.params=
+comment1.target=Koin()
+comment2.params=nilai
+comment2.target=Koin(int)
+comment3.params=
+comment3.target=int\ getNilai()
+comment4.params=nilai
+comment4.target=void\ setNilai(int)
+numComments=5

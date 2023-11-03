@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=MainLompatKatak
+comment1.params=
+comment1.target=MainLompatKatak()
+comment2.params=
+comment2.target=void\ mainkan()
+comment3.params=totalPoin
+comment3.target=void\ evaluasiPoin(int)
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5
